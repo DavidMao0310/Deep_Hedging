@@ -1,2 +1,4 @@
 # Deep_Hedging
-## Deep Hedging on BS model and Heston Model
+This project will talk about Deep Hedging on BS model and Heston Model
+
+
